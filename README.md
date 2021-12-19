@@ -1,6 +1,8 @@
-# ADBaby
+# IPFS와 Blochchain을 이용한 파일 업로드 시스템
 ## Requirement
-- Network
+- Gahache
+- Web3.py
+- IPFS Client
 
 tcp:6666
 
