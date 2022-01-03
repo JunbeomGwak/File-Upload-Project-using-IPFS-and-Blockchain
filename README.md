@@ -38,6 +38,7 @@ sudo ./install.sh
  - run
 `ipfs init`, 
 `ipfs daemon`
-## Flag
- - `SCTF{Do_U_th1nk_th1s_1s_adb}`
+## 구성도
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a1ba582-a0b1-4a5c-a068-8d6cb4082789/Untitled.png)
+
 
