@@ -3,6 +3,7 @@
 - Gahache
 - Web3.py
 - ipfshttpclient
+- flask
 
 ## Description (in public)
 
