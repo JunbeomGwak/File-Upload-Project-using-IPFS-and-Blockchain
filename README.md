@@ -39,6 +39,6 @@ sudo ./install.sh
 `ipfs init`, 
 `ipfs daemon`
 ## 구성도
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a1ba582-a0b1-4a5c-a068-8d6cb4082789/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/23713051/147915276-237ae6ae-6ffc-4fb2-9187-61d9e69ee768.png)
 
 
