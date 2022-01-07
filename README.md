@@ -9,7 +9,7 @@
 
 분산형 파일 시스템에 데이터를 저장하고 인터넷으로 공유하기 위한 프로토콜인 IPFS(InterPlanetary File System) 및 모든 거래 내역을 투명하게 볼 수 있는 Blockchain을 이용하여 디지털 저작물을 영구적으로 네트워크에 업로드 할 수 있는 프로그램을 제작
 
-##
+## 시작
 ```
 ipfs init &
 ipfs daemon &
@@ -17,8 +17,8 @@ sudo python3 server.py &
 sudo python3 gui.py &
 ```
 
-### manual
- - build
+### Requirement
+ - go-ipfs build
 ```
 wget https://dist.ipfs.io/go-ipfs/v0.4.17/go-ipfs_v0.4.17_linux-amd64.tar.gz
 tar zxvf go-ipfs_v0.4.17_linux-amd64.tar.gz
