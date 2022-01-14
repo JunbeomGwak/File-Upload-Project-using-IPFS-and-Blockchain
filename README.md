@@ -30,10 +30,15 @@ sudo ./install.sh
 ![Untitled](https://user-images.githubusercontent.com/23713051/147915276-237ae6ae-6ffc-4fb2-9187-61d9e69ee768.png)
 
 ## 과정
+<img width="167" alt="KakaoTalk_20220114_164029242" src="https://user-images.githubusercontent.com/23713051/149469993-7492ec67-7fac-4f4b-a554-224b85696fa3.png">
+- 저작자 이름, 생성 시간, 저작물 종류 등 정보를 입력
+
+
 ![KakaoTalk_20220114_164048526](https://user-images.githubusercontent.com/23713051/149469889-22482889-39bf-4aa6-ad53-0bcbd7457eba.png)
-![KakaoTalk_20220114_164056999](https://user-images.githubusercontent.com/23713051/149469891-98289e5c-b6c9-4285-95da-f7987122ec21.png)
+- 저작물 파일을 선택한 후, 업로드를 진행하면 해당 파일은 IPFS 네트워크에 업로드 되고, IPFS Hash를 반환 받음
 
-## 결과
-![Untitled1](https://user-images.githubusercontent.com/23713051/147915322-249b0b9a-69ff-454f-8c3c-9c7af6fe31e5.png)
 ![Untitled2](https://user-images.githubusercontent.com/23713051/147915328-624b5961-930e-4764-9395-81e8714514e9.png)
+- 업로드가 완료 되면, 반환된 ipfs hash 및 전송된 정보를 블록체인에 기록한 후 리턴값을 반환
 
+![KakaoTalk_20220114_164056999](https://user-images.githubusercontent.com/23713051/149469891-98289e5c-b6c9-4285-95da-f7987122ec21.png)
+- 정상적으로 IPFS 네트워크에 파일이 업로드 되어있음을 확인할 수 있음.
