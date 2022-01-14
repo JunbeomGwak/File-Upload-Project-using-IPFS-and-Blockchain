@@ -29,6 +29,10 @@ sudo ./install.sh
 ## 구성도
 ![Untitled](https://user-images.githubusercontent.com/23713051/147915276-237ae6ae-6ffc-4fb2-9187-61d9e69ee768.png)
 
+## 과정
+![KakaoTalk_20220114_164048526](https://user-images.githubusercontent.com/23713051/149469889-22482889-39bf-4aa6-ad53-0bcbd7457eba.png)
+![KakaoTalk_20220114_164056999](https://user-images.githubusercontent.com/23713051/149469891-98289e5c-b6c9-4285-95da-f7987122ec21.png)
+
 ## 결과
 ![Untitled1](https://user-images.githubusercontent.com/23713051/147915322-249b0b9a-69ff-454f-8c3c-9c7af6fe31e5.png)
 ![Untitled2](https://user-images.githubusercontent.com/23713051/147915328-624b5961-930e-4764-9395-81e8714514e9.png)
